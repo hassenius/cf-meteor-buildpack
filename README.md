@@ -1,3 +1,5 @@
+This is a fork of the Cloud Foundry Meteor Buildpack that will install Meteor 1.2.1 on 64 bit Linux machines of the type used in IBM Bluemix.
+
 Cloud Foundry Meteor Buildpack
 ==============================
 
